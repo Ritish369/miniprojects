@@ -1,5 +1,3 @@
-# Basic Project
-
 def main():
     choice()
 
